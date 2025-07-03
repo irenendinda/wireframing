@@ -18,3 +18,20 @@ Wireframes help designers, developers, and stakeholders visualize and communicat
 
 4. **Functionality**  
    Includes interactive components like buttons, links, forms, and other actions. For instance, a "Submit" button in a form allows users to send data.
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+These are quick, sketch-like layouts that show the basic structure of a page. They are used in the early stages of design for brainstorming and getting feedback.
+
+**Use case**: When exploring different layout options or conducting initial user testing.
+
+### High-Fidelity Wireframes
+These are detailed, digital representations that include typography, colors, and exact spacing. They are often used for final approval before prototyping.
+
+**Use case**: When presenting to stakeholders or preparing for hand-off to developers.
+
+---
+
+## What Type of Wireframe is This?
+
+If this image was provided, identify its type here (e.g., Low-Fidelity or High-Fidelity), explain why, and describe its usage context.
