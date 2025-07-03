@@ -35,3 +35,19 @@ These are detailed, digital representations that include typography, colors, and
 ## What Type of Wireframe is This?
 
 If this image was provided, identify its type here (e.g., Low-Fidelity or High-Fidelity), explain why, and describe its usage context.
+## Wireframing Tools
+
+There are many tools available for creating wireframes. Popular options include:
+
+- **Balsamiq** – great for sketch-style low-fidelity wireframes.
+- **Adobe XD** – ideal for high-fidelity wireframes and interactive prototypes.
+- **Sketch** – widely used in macOS environments for UI design.
+
+### Why Figma?
+
+**Figma** is a powerful, cloud-based design tool known for its collaboration features. It allows multiple users to design, comment, and iterate in real-time. It's perfect for both low-fidelity and high-fidelity wireframes and supports interactive prototyping.
+
+Key Features:
+- Real-time collaboration
+- Component reusability
+- Easy-to-use interface
